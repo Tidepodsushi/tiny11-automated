@@ -8,7 +8,7 @@
 
 ## 🔒 Security Overview
 
-Tiny11 Automated creates modified Windows 11 ISO images with **2,000+ downloads** and growing. Security is paramount as users trust our builds for their systems.
+Tiny11 Automated creates modified Windows 11 ISO images with **40,000+ downloads** and growing. Security is paramount as users trust our builds for their systems.
 
 ### Our Security Commitments
 
